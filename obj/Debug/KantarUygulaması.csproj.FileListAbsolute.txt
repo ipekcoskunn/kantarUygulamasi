@@ -1,0 +1,57 @@
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\bin\Debug\KantarUygulaması.exe.config
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\bin\Debug\KantarUygulaması.exe
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\bin\Debug\KantarUygulaması.pdb
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.FmGiris.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.Properties.Resources.resources
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.csproj.GenerateResource.Cache
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.exe
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.pdb
+C:\Users\ALEYNA\Desktop\KantarUygulaması\KantarUygulaması\bin\Debug\KantarUygulaması.exe.config
+C:\Users\ALEYNA\Desktop\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.exe
+C:\Users\ALEYNA\Desktop\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.pdb
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\bin\Debug\KantarUygulaması.exe.config
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.exe
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.pdb
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\bin\Debug\KantarUygulaması.exe
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\bin\Debug\KantarUygulaması.pdb
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.FmGiris.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.Properties.Resources.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.csproj.GenerateResource.Cache
+C:\Users\Ipek\Documents\Visual Studio 2013\Projects\Çalışmalarım\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.FmAracGiris.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.FmAracGiris.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.FmAracCikis.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.FmAracListesi.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.FmRapor.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması\KantarUygulaması\obj\Debug\KantarUygulaması.FmAnasayfa.resources
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\bin\Debug\KantarUygulaması.exe.config
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.exe
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.pdb
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\bin\Debug\KantarUygulaması.exe
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\bin\Debug\KantarUygulaması.pdb
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmAnasayfa.resources
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmAracGiris.resources
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmAracListesi.resources
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmGiris.resources
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmRapor.resources
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.Properties.Resources.resources
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.csproj.GenerateResource.Cache
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.csproj.ResolveComReference.cache
+C:\Users\ALEYNA\Desktop\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmCikis.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\bin\Debug\KantarUygulaması.exe.config
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.csproj.ResolveComReference.cache
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.exe
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.pdb
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\bin\Debug\KantarUygulaması.exe
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\bin\Debug\KantarUygulaması.pdb
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmAnasayfa.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmAracGiris.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmAracListesi.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmCikis.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmGiris.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.FmRapor.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.Properties.Resources.resources
+C:\Users\ALEYNA\Documents\Visual Studio 2013\Projects\KantarUygulaması(Son)\KantarUygulaması\obj\Debug\KantarUygulaması.csproj.GenerateResource.Cache
